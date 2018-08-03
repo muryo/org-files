@@ -1,0 +1,13 @@
+* remaining tasks on transition
+** DONE Unsupported git repo
+   CLOSED: [2018-08-03 五 10:58] SCHEDULED: <2018-08-02 四 15:00>
+** TODO bisect documentation
+   SCHEDULED: <2018-08-03 五 13:00>
+
+* Self improvement & learning
+** org mode learning
+** English learning
+
+* MKS program ramp up
+** TODO talk with Kemi about the background 
+   SCHEDULED: <2018-08-03 五 15:00>
